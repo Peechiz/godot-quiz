@@ -5,7 +5,6 @@ An interactive quiz app that tests your Godot 4 game development knowledge acros
 ## Quick Start
 
 ```bash
-cd godot-quiz-app
 npm install
 npm run dev
 ```
